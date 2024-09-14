@@ -1,0 +1,501 @@
+URL,Access_Frequency,Content_Size,Last_Access_Time,Access_Frequency_Over_Time,Storage_Cost,Content_Type,Data_Freshness
+http://localhost:5000/video/item_0.mp4,61,270,2024-08-27 18:39:03,13,940,Emails,Fresh
+http://localhost:5000/video/item_1.mp4,24,316,2024-09-03 04:07:33,12,693,Article,Fresh
+http://localhost:5000/video/item_2.mp4,81,286,2024-08-24 10:19:02,46,536,News,Stale
+http://localhost:5000/video/item_3.mp4,70,291,2024-08-31 14:58:16,2,828,News,Fresh
+http://localhost:5000/video/item_4.mp4,30,213,2024-09-03 12:43:56,29,378,Article,Stale
+http://localhost:5000/video/item_5.mp4,92,165,2024-09-03 06:56:44,35,899,Advertisement,Stale
+http://localhost:5000/video/item_6.mp4,96,5,2024-08-28 10:02:37,87,916,Ebook,Stale
+http://localhost:5000/video/item_7.mp4,84,339,2024-08-29 20:49:14,81,558,Videos,Fresh
+http://localhost:5000/video/item_8.mp4,84,379,2024-08-27 17:56:19,8,527,Infographic,Fresh
+http://localhost:5000/video/item_9.mp4,97,78,2024-08-29 00:38:27,93,153,Blogs,Stale
+http://localhost:5000/video/item_10.mp4,33,410,2024-08-26 08:34:04,26,734,News,Fresh
+http://localhost:5000/video/item_11.mp4,12,62,2024-08-26 05:42:41,10,206,Ebook,Fresh
+http://localhost:5000/video/item_12.mp4,31,132,2024-08-28 12:08:41,26,455,Live Video,Stale
+http://localhost:5000/video/item_13.mp4,62,89,2024-08-27 17:09:33,34,273,Social Media,Stale
+http://localhost:5000/video/item_14.mp4,11,237,2024-08-31 12:16:35,3,894,Article,Stale
+http://localhost:5000/video/item_15.mp4,97,42,2024-08-28 03:33:48,7,236,News,Stale
+http://localhost:5000/video/item_16.mp4,39,89,2024-08-27 16:22:34,4,852,Advertisement,Stale
+http://localhost:5000/video/item_17.mp4,47,402,2024-09-02 08:29:55,45,740,Videos,Fresh
+http://localhost:5000/video/item_18.mp4,11,296,2024-08-31 23:15:00,8,521,Advertisement,Stale
+http://localhost:5000/video/item_19.mp4,73,328,2024-08-30 23:20:20,36,678,Emails,Fresh
+http://localhost:5000/video/item_20.mp4,69,295,2024-08-25 15:06:38,21,944,Emails,Fresh
+http://localhost:5000/video/item_21.mp4,30,104,2024-08-29 20:20:02,29,956,Advertisement,Stale
+http://localhost:5000/video/item_22.mp4,42,14,2024-08-23 22:39:26,36,831,Advertisement,Stale
+http://localhost:5000/video/item_23.mp4,85,288,2024-09-01 17:20:37,10,726,Videos,Fresh
+http://localhost:5000/video/item_24.mp4,67,179,2024-08-28 07:44:54,24,501,Videos,Fresh
+http://localhost:5000/video/item_25.mp4,31,125,2024-08-24 14:55:52,3,117,Blogs,Stale
+http://localhost:5000/video/item_26.mp4,98,422,2024-08-31 19:23:42,49,386,Article,Stale
+http://localhost:5000/video/item_27.mp4,58,353,2024-08-31 02:48:32,35,344,Advertisement,Fresh
+http://localhost:5000/video/item_28.mp4,68,23,2024-09-02 01:23:47,36,584,Advertisement,Fresh
+http://localhost:5000/video/item_29.mp4,51,63,2024-08-27 05:04:49,18,395,Social Media,Fresh
+http://localhost:5000/video/item_30.mp4,69,143,2024-08-26 17:03:27,24,64,Emails,Stale
+http://localhost:5000/video/item_31.mp4,89,481,2024-08-27 16:46:15,23,717,Videos,Fresh
+http://localhost:5000/video/item_32.mp4,24,153,2024-08-30 06:10:36,5,721,News,Stale
+http://localhost:5000/video/item_33.mp4,71,145,2024-09-01 11:14:47,12,72,Advertisement,Fresh
+http://localhost:5000/video/item_34.mp4,71,225,2024-09-02 03:41:04,55,789,Live Video,Fresh
+http://localhost:5000/video/item_35.mp4,56,495,2024-08-26 15:02:50,13,274,Videos,Fresh
+http://localhost:5000/video/item_36.mp4,71,450,2024-09-03 16:20:46,23,990,News,Fresh
+http://localhost:5000/video/item_37.mp4,60,462,2024-08-30 05:47:04,25,320,Ebook,Stale
+http://localhost:5000/video/item_38.mp4,64,309,2024-08-23 13:25:30,35,338,Social Media,Fresh
+http://localhost:5000/video/item_39.mp4,73,104,2024-08-27 22:59:05,30,366,News,Stale
+http://localhost:5000/video/item_40.mp4,12,104,2024-09-02 14:12:47,1,495,Authority Content,Stale
+http://localhost:5000/video/item_41.mp4,60,435,2024-08-31 02:33:13,49,607,Infographic,Stale
+http://localhost:5000/video/item_42.mp4,16,39,2024-08-29 10:35:19,14,166,Ebook,Stale
+http://localhost:5000/video/item_43.mp4,30,435,2024-08-27 01:02:14,20,544,News,Stale
+http://localhost:5000/video/item_44.mp4,82,198,2024-09-01 15:35:57,13,11,Advertisement,Stale
+http://localhost:5000/video/item_45.mp4,48,134,2024-08-26 12:04:38,19,301,Blogs,Fresh
+http://localhost:5000/video/item_46.mp4,27,67,2024-08-25 20:05:55,17,729,Live Video,Fresh
+http://localhost:5000/video/item_47.mp4,13,391,2024-09-02 21:58:56,4,801,Advertisement,Stale
+http://localhost:5000/video/item_48.mp4,98,179,2024-08-31 19:56:36,12,102,Blogs,Fresh
+http://localhost:5000/video/item_49.mp4,69,456,2024-08-28 21:18:13,61,425,Authority Content,Stale
+http://localhost:5000/video/item_50.mp4,23,42,2024-08-30 17:30:46,9,392,Advertisement,Fresh
+http://localhost:5000/video/item_51.mp4,18,448,2024-08-24 06:57:06,12,779,Live Video,Fresh
+http://localhost:5000/video/item_52.mp4,99,15,2024-08-28 20:07:28,9,214,Blogs,Stale
+http://localhost:5000/video/item_53.mp4,62,111,2024-08-23 20:52:31,7,691,Social Media,Stale
+http://localhost:5000/video/item_54.mp4,11,157,2024-09-03 09:02:29,4,88,Emails,Stale
+http://localhost:5000/video/item_55.mp4,93,289,2024-08-28 09:36:31,83,553,Social Media,Fresh
+http://localhost:5000/video/item_56.mp4,69,478,2024-08-24 21:30:16,16,401,Live Video,Fresh
+http://localhost:5000/video/item_57.mp4,80,231,2024-08-30 12:59:10,69,588,Authority Content,Stale
+http://localhost:5000/video/item_58.mp4,53,411,2024-08-27 02:04:08,35,889,Infographic,Fresh
+http://localhost:5000/video/item_59.mp4,17,420,2024-08-27 17:27:49,12,46,Blogs,Fresh
+http://localhost:5000/video/item_60.mp4,56,157,2024-08-31 03:02:50,25,672,Live Video,Stale
+http://localhost:5000/video/item_61.mp4,44,38,2024-08-31 13:15:05,21,463,Emails,Fresh
+http://localhost:5000/video/item_62.mp4,87,441,2024-08-24 14:48:21,53,592,Article,Stale
+http://localhost:5000/video/item_63.mp4,90,97,2024-08-29 07:24:24,23,310,News,Fresh
+http://localhost:5000/video/item_64.mp4,45,485,2024-09-03 07:02:57,16,86,Article,Fresh
+http://localhost:5000/video/item_65.mp4,59,411,2024-08-26 19:07:12,57,92,Emails,Fresh
+http://localhost:5000/video/item_66.mp4,13,439,2024-08-27 03:00:10,7,660,News,Fresh
+http://localhost:5000/video/item_67.mp4,11,289,2024-08-31 11:59:36,5,673,Ebook,Fresh
+http://localhost:5000/video/item_68.mp4,15,254,2024-08-23 09:15:18,10,714,Authority Content,Fresh
+http://localhost:5000/video/item_69.mp4,63,196,2024-08-24 01:32:44,58,936,Advertisement,Fresh
+http://localhost:5000/video/item_70.mp4,13,86,2024-08-30 20:18:07,7,928,Authority Content,Stale
+http://localhost:5000/video/item_71.mp4,63,322,2024-09-01 10:39:35,14,242,Authority Content,Fresh
+http://localhost:5000/video/item_72.mp4,72,10,2024-08-29 07:05:33,5,865,Emails,Stale
+http://localhost:5000/video/item_73.mp4,27,5,2024-08-28 06:15:16,3,2,Authority Content,Fresh
+http://localhost:5000/video/item_74.mp4,99,123,2024-08-26 03:04:56,87,225,Authority Content,Stale
+http://localhost:5000/video/item_75.mp4,53,330,2024-08-26 01:43:46,29,801,Emails,Stale
+http://localhost:5000/video/item_76.mp4,43,353,2024-08-30 04:23:57,11,745,Article,Fresh
+http://localhost:5000/video/item_77.mp4,83,118,2024-08-25 07:01:36,18,973,Authority Content,Stale
+http://localhost:5000/video/item_78.mp4,71,294,2024-08-23 13:34:09,9,926,News,Stale
+http://localhost:5000/video/item_79.mp4,23,397,2024-08-25 02:43:07,10,929,Article,Stale
+http://localhost:5000/video/item_80.mp4,57,159,2024-08-31 11:35:36,44,589,Infographic,Stale
+http://localhost:5000/video/item_81.mp4,24,303,2024-08-31 13:17:00,17,116,Infographic,Fresh
+http://localhost:5000/video/item_82.mp4,81,228,2024-09-03 09:08:45,7,666,Ebook,Fresh
+http://localhost:5000/video/item_83.mp4,87,365,2024-08-23 23:40:36,46,918,Videos,Fresh
+http://localhost:5000/video/item_84.mp4,96,216,2024-08-31 22:14:29,13,103,Blogs,Fresh
+http://localhost:5000/video/item_85.mp4,71,436,2024-09-03 01:07:20,40,194,Ebook,Fresh
+http://localhost:5000/video/item_86.mp4,49,184,2024-08-27 17:36:30,42,166,Videos,Fresh
+http://localhost:5000/video/item_87.mp4,94,15,2024-09-02 18:36:17,9,871,News,Stale
+http://localhost:5000/video/item_88.mp4,89,157,2024-08-30 21:52:16,50,90,News,Fresh
+http://localhost:5000/video/item_89.mp4,91,136,2024-08-25 02:29:43,27,686,Videos,Fresh
+http://localhost:5000/video/item_90.mp4,62,261,2024-09-02 09:39:24,58,122,Article,Fresh
+http://localhost:5000/video/item_91.mp4,33,157,2024-08-28 08:01:07,2,143,Authority Content,Stale
+http://localhost:5000/video/item_92.mp4,35,47,2024-08-24 14:15:15,5,994,Social Media,Stale
+http://localhost:5000/video/item_93.mp4,98,324,2024-08-29 14:24:02,29,106,Emails,Stale
+http://localhost:5000/video/item_94.mp4,69,332,2024-09-01 09:09:33,37,887,Live Video,Fresh
+http://localhost:5000/video/item_95.mp4,50,173,2024-08-23 05:50:36,38,428,Advertisement,Stale
+http://localhost:5000/video/item_96.mp4,38,130,2024-09-02 06:15:35,19,305,Advertisement,Stale
+http://localhost:5000/video/item_97.mp4,24,411,2024-08-29 03:15:33,8,872,Article,Fresh
+http://localhost:5000/video/item_98.mp4,54,95,2024-08-26 23:42:48,48,971,Ebook,Stale
+http://localhost:5000/video/item_99.mp4,74,115,2024-08-25 10:30:48,65,317,Ebook,Stale
+http://localhost:5000/video/item_100.mp4,98,243,2024-08-26 07:44:03,86,963,Ebook,Fresh
+http://localhost:5000/video/item_101.mp4,80,420,2024-08-26 18:03:52,17,635,Videos,Fresh
+http://localhost:5000/video/item_102.mp4,18,292,2024-08-29 14:28:48,7,902,Blogs,Stale
+http://localhost:5000/video/item_103.mp4,97,282,2024-09-02 17:21:59,89,9,Authority Content,Fresh
+http://localhost:5000/video/item_104.mp4,10,299,2024-08-25 15:11:58,4,774,Authority Content,Fresh
+http://localhost:5000/video/item_105.mp4,17,283,2024-08-31 06:18:19,4,73,Social Media,Stale
+http://localhost:5000/video/item_106.mp4,97,69,2024-08-25 01:52:18,70,359,Emails,Fresh
+http://localhost:5000/video/item_107.mp4,72,148,2024-09-02 02:50:01,31,223,Social Media,Fresh
+http://localhost:5000/video/item_108.mp4,20,11,2024-08-27 09:44:54,19,416,Authority Content,Stale
+http://localhost:5000/video/item_109.mp4,90,254,2024-08-31 16:34:42,61,553,News,Fresh
+http://localhost:5000/video/item_110.mp4,17,330,2024-08-26 21:51:25,12,370,Videos,Fresh
+http://localhost:5000/video/item_111.mp4,44,360,2024-08-27 10:14:38,39,716,Ebook,Stale
+http://localhost:5000/video/item_112.mp4,44,38,2024-08-31 20:49:06,27,264,Live Video,Fresh
+http://localhost:5000/video/item_113.mp4,42,134,2024-08-27 19:50:29,10,840,News,Fresh
+http://localhost:5000/video/item_114.mp4,14,200,2024-08-24 20:14:59,10,690,Videos,Stale
+http://localhost:5000/video/item_115.mp4,50,23,2024-09-01 08:39:13,19,860,Live Video,Stale
+http://localhost:5000/video/item_116.mp4,37,303,2024-09-02 12:56:13,3,318,Ebook,Fresh
+http://localhost:5000/video/item_117.mp4,16,346,2024-08-23 08:04:08,13,84,Infographic,Stale
+http://localhost:5000/video/item_118.mp4,82,302,2024-09-02 09:09:32,13,318,Blogs,Stale
+http://localhost:5000/video/item_119.mp4,81,363,2024-08-23 14:04:53,58,111,Ebook,Stale
+http://localhost:5000/video/item_120.mp4,21,396,2024-08-29 11:54:53,20,251,Videos,Stale
+http://localhost:5000/video/item_121.mp4,43,218,2024-09-02 08:40:49,28,383,Infographic,Fresh
+http://localhost:5000/video/item_122.mp4,42,141,2024-08-25 08:52:08,8,7,Infographic,Fresh
+http://localhost:5000/video/item_123.mp4,57,104,2024-08-26 08:28:18,41,459,Advertisement,Fresh
+http://localhost:5000/video/item_124.mp4,32,446,2024-08-28 10:08:34,7,84,Authority Content,Stale
+http://localhost:5000/video/item_125.mp4,71,210,2024-08-26 02:55:25,1,208,Advertisement,Fresh
+http://localhost:5000/video/item_126.mp4,97,473,2024-08-29 16:47:11,3,900,Ebook,Stale
+http://localhost:5000/video/item_127.mp4,46,481,2024-08-24 00:46:07,13,390,Ebook,Fresh
+http://localhost:5000/video/item_128.mp4,53,111,2024-08-24 21:46:52,28,314,Live Video,Fresh
+http://localhost:5000/video/item_129.mp4,95,104,2024-08-24 14:20:36,62,22,Authority Content,Fresh
+http://localhost:5000/video/item_130.mp4,44,316,2024-08-28 06:45:28,25,410,Advertisement,Fresh
+http://localhost:5000/video/item_131.mp4,74,171,2024-08-24 11:14:09,56,895,Emails,Fresh
+http://localhost:5000/video/item_132.mp4,56,460,2024-08-28 13:18:51,33,515,Ebook,Stale
+http://localhost:5000/video/item_133.mp4,87,492,2024-08-25 04:31:14,38,127,Emails,Stale
+http://localhost:5000/video/item_134.mp4,12,356,2024-08-29 22:02:25,5,809,Social Media,Fresh
+http://localhost:5000/video/item_135.mp4,10,496,2024-08-26 15:14:06,6,700,Article,Fresh
+http://localhost:5000/video/item_136.mp4,14,324,2024-08-31 01:28:50,10,874,Ebook,Stale
+http://localhost:5000/video/item_137.mp4,99,133,2024-08-27 21:18:50,44,14,Article,Stale
+http://localhost:5000/video/item_138.mp4,23,376,2024-09-01 13:48:51,13,971,Advertisement,Stale
+http://localhost:5000/video/item_139.mp4,36,293,2024-08-31 15:04:22,32,978,Videos,Stale
+http://localhost:5000/video/item_140.mp4,18,328,2024-08-25 07:51:59,13,12,Social Media,Fresh
+http://localhost:5000/video/item_141.mp4,88,127,2024-08-27 18:07:51,61,87,Blogs,Stale
+http://localhost:5000/video/item_142.mp4,24,106,2024-08-24 17:47:47,15,524,Live Video,Fresh
+http://localhost:5000/video/item_143.mp4,99,497,2024-08-25 00:45:52,21,909,Advertisement,Stale
+http://localhost:5000/video/item_144.mp4,51,92,2024-08-30 03:19:18,16,537,Videos,Stale
+http://localhost:5000/video/item_145.mp4,86,287,2024-08-24 12:31:33,85,301,Ebook,Stale
+http://localhost:5000/video/item_146.mp4,60,378,2024-08-27 12:35:29,11,243,Advertisement,Stale
+http://localhost:5000/video/item_147.mp4,72,393,2024-09-01 17:10:46,36,122,Blogs,Fresh
+http://localhost:5000/video/item_148.mp4,61,51,2024-08-25 10:13:04,35,147,Live Video,Stale
+http://localhost:5000/video/item_149.mp4,13,29,2024-08-24 03:40:56,3,567,Videos,Fresh
+http://localhost:5000/video/item_150.mp4,32,462,2024-08-31 21:59:55,20,750,Ebook,Fresh
+http://localhost:5000/video/item_151.mp4,24,296,2024-09-02 03:34:02,18,356,Authority Content,Fresh
+http://localhost:5000/video/item_152.mp4,52,297,2024-08-30 03:15:58,47,685,Emails,Fresh
+http://localhost:5000/video/item_153.mp4,38,214,2024-09-03 10:24:17,14,904,Social Media,Fresh
+http://localhost:5000/video/item_154.mp4,45,267,2024-08-26 05:39:10,15,733,Live Video,Fresh
+http://localhost:5000/video/item_155.mp4,22,407,2024-08-28 17:17:32,1,631,Videos,Fresh
+http://localhost:5000/video/item_156.mp4,41,257,2024-09-02 12:56:34,3,309,Videos,Stale
+http://localhost:5000/video/item_157.mp4,80,302,2024-08-28 08:26:09,16,695,Emails,Stale
+http://localhost:5000/video/item_158.mp4,68,101,2024-08-28 10:55:51,57,288,Authority Content,Stale
+http://localhost:5000/video/item_159.mp4,95,405,2024-08-28 08:51:29,75,307,Emails,Fresh
+http://localhost:5000/video/item_160.mp4,37,346,2024-09-01 21:25:17,12,812,Ebook,Fresh
+http://localhost:5000/video/item_161.mp4,75,110,2024-08-26 14:00:11,74,594,Live Video,Stale
+http://localhost:5000/video/item_162.mp4,51,420,2024-08-23 19:29:33,32,966,Social Media,Stale
+http://localhost:5000/video/item_163.mp4,54,182,2024-08-24 09:46:25,16,914,Infographic,Stale
+http://localhost:5000/video/item_164.mp4,71,471,2024-08-29 18:59:34,24,723,Live Video,Stale
+http://localhost:5000/video/item_165.mp4,66,313,2024-08-26 13:24:15,28,662,Advertisement,Stale
+http://localhost:5000/video/item_166.mp4,15,1,2024-09-01 05:51:42,5,549,Article,Fresh
+http://localhost:5000/video/item_167.mp4,37,319,2024-08-25 17:20:58,8,352,Infographic,Stale
+http://localhost:5000/video/item_168.mp4,37,438,2024-08-26 04:25:37,28,312,Live Video,Fresh
+http://localhost:5000/video/item_169.mp4,53,55,2024-08-25 22:10:40,36,873,Live Video,Fresh
+http://localhost:5000/video/item_170.mp4,93,371,2024-09-01 21:15:18,90,59,Social Media,Fresh
+http://localhost:5000/video/item_171.mp4,39,424,2024-08-30 05:01:20,8,643,News,Stale
+http://localhost:5000/video/item_172.mp4,71,399,2024-09-01 08:40:30,58,924,Blogs,Stale
+http://localhost:5000/video/item_173.mp4,84,149,2024-09-02 09:24:06,60,714,Live Video,Stale
+http://localhost:5000/video/item_174.mp4,98,431,2024-08-24 16:12:07,50,755,Social Media,Fresh
+http://localhost:5000/video/item_175.mp4,71,457,2024-08-26 08:42:19,28,35,Videos,Stale
+http://localhost:5000/video/item_176.mp4,10,309,2024-08-29 00:04:04,5,445,Infographic,Stale
+http://localhost:5000/video/item_177.mp4,36,137,2024-09-03 07:33:09,27,93,Live Video,Fresh
+http://localhost:5000/video/item_178.mp4,71,202,2024-08-27 23:08:58,63,950,News,Stale
+http://localhost:5000/video/item_179.mp4,86,436,2024-08-24 06:19:30,17,959,Ebook,Fresh
+http://localhost:5000/video/item_180.mp4,12,313,2024-08-25 04:32:10,9,207,Infographic,Fresh
+http://localhost:5000/video/item_181.mp4,79,117,2024-09-01 01:14:44,33,353,Emails,Fresh
+http://localhost:5000/video/item_182.mp4,81,154,2024-08-26 02:19:31,77,903,News,Stale
+http://localhost:5000/video/item_183.mp4,36,425,2024-08-29 19:50:01,28,332,Videos,Stale
+http://localhost:5000/video/item_184.mp4,18,291,2024-08-27 05:13:44,16,817,Infographic,Stale
+http://localhost:5000/video/item_185.mp4,71,63,2024-08-24 06:30:15,29,862,Article,Fresh
+http://localhost:5000/video/item_186.mp4,46,244,2024-08-26 13:43:12,13,725,Blogs,Fresh
+http://localhost:5000/video/item_187.mp4,60,25,2024-08-27 06:13:21,46,159,Advertisement,Stale
+http://localhost:5000/video/item_188.mp4,53,90,2024-08-24 05:57:43,35,954,Infographic,Stale
+http://localhost:5000/video/item_189.mp4,33,75,2024-08-29 00:41:08,29,957,News,Stale
+http://localhost:5000/video/item_190.mp4,88,294,2024-08-26 21:11:13,6,24,Article,Fresh
+http://localhost:5000/video/item_191.mp4,68,386,2024-08-28 08:14:26,47,404,Emails,Fresh
+http://localhost:5000/video/item_192.mp4,41,391,2024-08-26 07:12:13,25,805,Authority Content,Fresh
+http://localhost:5000/video/item_193.mp4,97,210,2024-09-01 17:40:38,66,516,Live Video,Stale
+http://localhost:5000/video/item_194.mp4,61,475,2024-08-25 10:18:16,10,732,Blogs,Stale
+http://localhost:5000/video/item_195.mp4,71,418,2024-08-24 18:42:03,56,364,Authority Content,Fresh
+http://localhost:5000/video/item_196.mp4,67,347,2024-09-01 13:48:27,30,382,Infographic,Fresh
+http://localhost:5000/video/item_197.mp4,61,17,2024-08-23 13:24:04,50,532,Social Media,Stale
+http://localhost:5000/video/item_198.mp4,21,128,2024-08-24 05:19:35,13,956,News,Stale
+http://localhost:5000/video/item_199.mp4,48,427,2024-08-29 14:26:35,5,152,Blogs,Stale
+http://localhost:5000/video/item_200.mp4,11,443,2024-08-25 21:38:26,7,562,Social Media,Stale
+http://localhost:5000/video/item_201.mp4,12,364,2024-08-23 06:00:16,8,689,Infographic,Fresh
+http://localhost:5000/video/item_202.mp4,65,251,2024-08-29 19:39:37,33,947,Emails,Stale
+http://localhost:5000/video/item_203.mp4,90,179,2024-08-31 07:03:22,65,608,Social Media,Fresh
+http://localhost:5000/video/item_204.mp4,68,182,2024-08-31 00:41:32,18,617,Social Media,Fresh
+http://localhost:5000/video/item_205.mp4,11,152,2024-08-23 19:08:49,1,420,Advertisement,Fresh
+http://localhost:5000/video/item_206.mp4,11,25,2024-08-24 19:37:09,5,250,Social Media,Fresh
+http://localhost:5000/video/item_207.mp4,63,455,2024-08-31 07:33:24,26,117,Authority Content,Stale
+http://localhost:5000/video/item_208.mp4,96,180,2024-09-03 02:22:05,63,866,Social Media,Fresh
+http://localhost:5000/video/item_209.mp4,10,198,2024-08-31 23:00:06,9,512,Social Media,Stale
+http://localhost:5000/video/item_210.mp4,28,344,2024-09-02 11:00:37,22,740,Blogs,Stale
+http://localhost:5000/video/item_211.mp4,11,161,2024-08-29 07:15:18,1,578,Ebook,Stale
+http://localhost:5000/video/item_212.mp4,62,177,2024-08-26 21:50:54,13,335,Advertisement,Fresh
+http://localhost:5000/video/item_213.mp4,53,285,2024-09-01 15:39:24,33,418,Authority Content,Stale
+http://localhost:5000/video/item_214.mp4,99,63,2024-09-02 03:08:39,98,932,Authority Content,Fresh
+http://localhost:5000/video/item_215.mp4,41,491,2024-09-02 10:34:17,35,774,Authority Content,Fresh
+http://localhost:5000/video/item_216.mp4,79,150,2024-08-23 06:01:14,1,295,Article,Stale
+http://localhost:5000/video/item_217.mp4,41,154,2024-08-23 14:28:58,21,938,Emails,Stale
+http://localhost:5000/video/item_218.mp4,77,156,2024-08-27 21:22:01,55,755,Emails,Fresh
+http://localhost:5000/video/item_219.mp4,64,370,2024-08-29 10:03:44,6,371,Advertisement,Fresh
+http://localhost:5000/video/item_220.mp4,84,469,2024-09-03 01:05:28,81,186,Live Video,Stale
+http://localhost:5000/video/item_221.mp4,65,49,2024-08-25 04:05:58,5,246,Ebook,Fresh
+http://localhost:5000/video/item_222.mp4,26,455,2024-09-02 22:08:12,5,637,Authority Content,Fresh
+http://localhost:5000/video/item_223.mp4,47,337,2024-08-29 12:54:51,38,268,Infographic,Fresh
+http://localhost:5000/video/item_224.mp4,33,84,2024-09-02 02:00:21,3,643,Emails,Fresh
+http://localhost:5000/video/item_225.mp4,78,361,2024-08-28 09:24:14,53,237,Ebook,Fresh
+http://localhost:5000/video/item_226.mp4,79,177,2024-08-31 11:24:34,23,530,Advertisement,Fresh
+http://localhost:5000/video/item_227.mp4,95,148,2024-08-23 16:43:32,53,552,Blogs,Fresh
+http://localhost:5000/video/item_228.mp4,20,118,2024-09-03 17:22:13,5,21,Blogs,Stale
+http://localhost:5000/video/item_229.mp4,25,342,2024-08-29 06:49:48,10,911,Ebook,Fresh
+http://localhost:5000/video/item_230.mp4,82,476,2024-08-25 18:33:33,74,737,Authority Content,Fresh
+http://localhost:5000/video/item_231.mp4,68,63,2024-08-23 21:34:21,17,867,Videos,Fresh
+http://localhost:5000/video/item_232.mp4,79,189,2024-08-23 21:13:21,78,794,Blogs,Stale
+http://localhost:5000/video/item_233.mp4,89,360,2024-08-30 11:19:51,73,520,Ebook,Fresh
+http://localhost:5000/video/item_234.mp4,12,49,2024-08-23 21:48:28,1,100,Blogs,Stale
+http://localhost:5000/video/item_235.mp4,29,327,2024-08-26 21:26:39,19,752,Article,Fresh
+http://localhost:5000/video/item_236.mp4,68,257,2024-09-03 17:18:04,45,478,Emails,Stale
+http://localhost:5000/video/item_237.mp4,45,224,2024-08-31 01:37:13,13,599,Infographic,Stale
+http://localhost:5000/video/item_238.mp4,28,141,2024-08-28 02:51:14,4,298,Live Video,Stale
+http://localhost:5000/video/item_239.mp4,99,478,2024-08-25 15:01:11,62,940,Authority Content,Stale
+http://localhost:5000/video/item_240.mp4,76,215,2024-08-31 09:19:46,65,526,News,Fresh
+http://localhost:5000/video/item_241.mp4,28,435,2024-08-29 09:13:36,17,334,Social Media,Fresh
+http://localhost:5000/video/item_242.mp4,29,379,2024-08-25 00:14:14,8,2,Live Video,Fresh
+http://localhost:5000/video/item_243.mp4,80,440,2024-08-26 12:51:50,32,375,Emails,Fresh
+http://localhost:5000/video/item_244.mp4,61,211,2024-08-27 13:15:23,34,293,Advertisement,Stale
+http://localhost:5000/video/item_245.mp4,42,318,2024-09-03 09:51:29,28,837,Authority Content,Fresh
+http://localhost:5000/video/item_246.mp4,49,32,2024-09-02 20:21:30,31,934,Emails,Fresh
+http://localhost:5000/video/item_247.mp4,48,158,2024-08-25 22:50:53,8,553,News,Fresh
+http://localhost:5000/video/item_248.mp4,91,285,2024-08-27 00:32:36,39,318,Emails,Stale
+http://localhost:5000/video/item_249.mp4,10,305,2024-09-02 20:17:10,2,502,Emails,Fresh
+http://localhost:5000/video/item_250.mp4,20,429,2024-09-01 00:06:15,3,828,Emails,Stale
+http://localhost:5000/video/item_251.mp4,66,477,2024-08-23 22:00:12,50,381,Social Media,Fresh
+http://localhost:5000/video/item_252.mp4,98,286,2024-09-03 07:22:28,12,623,Videos,Fresh
+http://localhost:5000/video/item_253.mp4,59,144,2024-08-28 19:51:47,1,14,Authority Content,Stale
+http://localhost:5000/video/item_254.mp4,32,424,2024-08-29 03:05:54,22,504,Blogs,Fresh
+http://localhost:5000/video/item_255.mp4,40,19,2024-08-31 00:34:46,5,231,Videos,Stale
+http://localhost:5000/video/item_256.mp4,51,18,2024-08-25 12:09:16,30,985,Live Video,Stale
+http://localhost:5000/video/item_257.mp4,16,257,2024-08-30 13:58:46,14,84,Infographic,Fresh
+http://localhost:5000/video/item_258.mp4,25,78,2024-08-27 17:11:41,17,130,News,Stale
+http://localhost:5000/video/item_259.mp4,99,371,2024-08-31 11:28:35,47,743,Social Media,Stale
+http://localhost:5000/video/item_260.mp4,69,175,2024-09-02 17:16:53,23,838,Emails,Fresh
+http://localhost:5000/video/item_261.mp4,11,498,2024-08-25 08:56:06,5,145,Social Media,Stale
+http://localhost:5000/video/item_262.mp4,10,194,2024-08-25 04:06:56,5,891,Emails,Fresh
+http://localhost:5000/video/item_263.mp4,57,476,2024-08-24 05:45:43,14,857,Emails,Fresh
+http://localhost:5000/video/item_264.mp4,21,113,2024-08-25 05:13:58,2,28,News,Stale
+http://localhost:5000/video/item_265.mp4,78,114,2024-08-31 00:41:14,75,66,Advertisement,Fresh
+http://localhost:5000/video/item_266.mp4,46,222,2024-08-29 13:56:52,39,163,Infographic,Stale
+http://localhost:5000/video/item_267.mp4,41,166,2024-08-31 04:45:40,38,229,Videos,Stale
+http://localhost:5000/video/item_268.mp4,18,435,2024-08-27 19:19:41,2,261,Emails,Stale
+http://localhost:5000/video/item_269.mp4,28,319,2024-09-03 12:23:51,6,449,Ebook,Stale
+http://localhost:5000/video/item_270.mp4,57,132,2024-08-24 11:42:43,50,424,Emails,Stale
+http://localhost:5000/video/item_271.mp4,89,385,2024-08-28 08:29:20,82,460,Ebook,Stale
+http://localhost:5000/video/item_272.mp4,12,264,2024-08-24 21:41:29,11,952,Article,Stale
+http://localhost:5000/video/item_273.mp4,29,413,2024-08-23 06:21:27,19,676,Live Video,Stale
+http://localhost:5000/video/item_274.mp4,33,55,2024-08-26 23:24:36,31,301,Ebook,Stale
+http://localhost:5000/video/item_275.mp4,63,359,2024-09-02 05:59:06,34,919,Ebook,Fresh
+http://localhost:5000/video/item_276.mp4,42,131,2024-08-24 21:22:07,38,303,News,Stale
+http://localhost:5000/video/item_277.mp4,33,288,2024-09-02 12:19:33,1,287,News,Stale
+http://localhost:5000/video/item_278.mp4,84,266,2024-08-28 06:13:49,79,395,Emails,Fresh
+http://localhost:5000/video/item_279.mp4,81,458,2024-08-24 11:27:06,30,10,Blogs,Fresh
+http://localhost:5000/video/item_280.mp4,45,467,2024-08-24 05:58:11,42,707,Social Media,Fresh
+http://localhost:5000/video/item_281.mp4,47,366,2024-08-30 03:31:11,17,630,Authority Content,Fresh
+http://localhost:5000/video/item_282.mp4,93,162,2024-08-27 04:36:50,5,270,Article,Fresh
+http://localhost:5000/video/item_283.mp4,98,380,2024-08-25 05:26:43,29,592,Article,Fresh
+http://localhost:5000/video/item_284.mp4,34,481,2024-08-24 17:10:02,4,970,Ebook,Fresh
+http://localhost:5000/video/item_285.mp4,27,87,2024-09-02 19:20:02,10,605,Blogs,Stale
+http://localhost:5000/video/item_286.mp4,91,55,2024-08-28 05:10:54,56,778,Infographic,Stale
+http://localhost:5000/video/item_287.mp4,75,476,2024-09-02 08:29:59,17,844,Ebook,Stale
+http://localhost:5000/video/item_288.mp4,63,288,2024-08-30 03:37:38,10,862,Videos,Stale
+http://localhost:5000/video/item_289.mp4,44,178,2024-08-28 22:55:11,17,361,Live Video,Fresh
+http://localhost:5000/video/item_290.mp4,89,391,2024-08-24 09:05:53,84,257,Advertisement,Fresh
+http://localhost:5000/video/item_291.mp4,70,349,2024-08-28 17:11:46,69,133,Emails,Fresh
+http://localhost:5000/video/item_292.mp4,50,8,2024-09-02 20:08:28,34,276,News,Stale
+http://localhost:5000/video/item_293.mp4,42,321,2024-08-23 23:19:17,6,776,Live Video,Fresh
+http://localhost:5000/video/item_294.mp4,77,313,2024-09-02 07:51:08,53,683,Social Media,Stale
+http://localhost:5000/video/item_295.mp4,42,247,2024-08-27 05:00:39,2,972,News,Fresh
+http://localhost:5000/video/item_296.mp4,23,323,2024-09-03 16:21:27,13,513,Article,Stale
+http://localhost:5000/video/item_297.mp4,30,472,2024-09-01 22:35:57,11,313,Article,Stale
+http://localhost:5000/video/item_298.mp4,57,471,2024-08-30 22:45:27,43,576,News,Fresh
+http://localhost:5000/video/item_299.mp4,29,443,2024-08-31 22:08:20,16,886,Blogs,Fresh
+http://localhost:5000/video/item_300.mp4,17,255,2024-08-25 17:41:22,11,980,Social Media,Stale
+http://localhost:5000/video/item_301.mp4,16,328,2024-09-02 15:49:34,3,284,Emails,Fresh
+http://localhost:5000/video/item_302.mp4,76,54,2024-08-24 06:33:13,23,121,Social Media,Fresh
+http://localhost:5000/video/item_303.mp4,26,249,2024-09-02 19:32:39,23,107,Live Video,Stale
+http://localhost:5000/video/item_304.mp4,42,239,2024-08-31 16:38:52,16,933,Advertisement,Fresh
+http://localhost:5000/video/item_305.mp4,57,229,2024-09-03 14:02:47,31,687,Authority Content,Fresh
+http://localhost:5000/video/item_306.mp4,85,67,2024-08-26 10:39:15,75,997,Authority Content,Stale
+http://localhost:5000/video/item_307.mp4,68,51,2024-08-29 03:22:28,16,204,Blogs,Fresh
+http://localhost:5000/video/item_308.mp4,95,97,2024-08-29 12:11:32,8,165,Ebook,Fresh
+http://localhost:5000/video/item_309.mp4,31,92,2024-08-29 07:02:30,4,305,News,Stale
+http://localhost:5000/video/item_310.mp4,39,495,2024-09-02 14:16:02,4,497,News,Stale
+http://localhost:5000/video/item_311.mp4,47,264,2024-08-29 21:04:04,25,632,Infographic,Stale
+http://localhost:5000/video/item_312.mp4,60,418,2024-08-26 15:04:34,3,556,Blogs,Stale
+http://localhost:5000/video/item_313.mp4,63,291,2024-08-24 13:55:34,32,824,Advertisement,Stale
+http://localhost:5000/video/item_314.mp4,17,96,2024-08-26 22:08:58,3,156,Ebook,Stale
+http://localhost:5000/video/item_315.mp4,36,88,2024-08-24 09:59:33,27,367,Emails,Fresh
+http://localhost:5000/video/item_316.mp4,36,78,2024-08-28 18:54:03,29,719,Ebook,Stale
+http://localhost:5000/video/item_317.mp4,30,288,2024-08-24 17:05:52,18,902,Ebook,Stale
+http://localhost:5000/video/item_318.mp4,39,120,2024-09-03 00:15:16,19,620,Live Video,Fresh
+http://localhost:5000/video/item_319.mp4,37,302,2024-09-02 06:24:09,21,251,Blogs,Stale
+http://localhost:5000/video/item_320.mp4,73,491,2024-09-03 04:30:43,5,957,Ebook,Fresh
+http://localhost:5000/video/item_321.mp4,78,400,2024-08-26 23:11:36,42,916,News,Fresh
+http://localhost:5000/video/item_322.mp4,70,452,2024-09-01 13:24:58,61,882,Videos,Stale
+http://localhost:5000/video/item_323.mp4,57,165,2024-09-03 05:55:16,22,334,Article,Fresh
+http://localhost:5000/video/item_324.mp4,28,182,2024-08-28 04:03:14,21,642,Blogs,Fresh
+http://localhost:5000/video/item_325.mp4,13,469,2024-09-02 22:47:17,6,969,Article,Fresh
+http://localhost:5000/video/item_326.mp4,44,398,2024-08-27 22:52:38,1,511,Videos,Stale
+http://localhost:5000/video/item_327.mp4,73,223,2024-08-25 03:23:40,5,293,Infographic,Fresh
+http://localhost:5000/video/item_328.mp4,58,311,2024-08-26 14:22:08,41,20,Advertisement,Stale
+http://localhost:5000/video/item_329.mp4,26,432,2024-08-28 04:37:44,12,282,Article,Fresh
+http://localhost:5000/video/item_330.mp4,53,466,2024-09-02 21:45:41,26,797,Videos,Stale
+http://localhost:5000/video/item_331.mp4,39,7,2024-08-24 11:38:13,34,1,News,Fresh
+http://localhost:5000/video/item_332.mp4,55,330,2024-08-28 17:06:23,49,119,Blogs,Stale
+http://localhost:5000/video/item_333.mp4,15,263,2024-08-26 23:05:40,14,35,Videos,Stale
+http://localhost:5000/video/item_334.mp4,46,161,2024-08-29 08:48:58,26,198,Authority Content,Fresh
+http://localhost:5000/video/item_335.mp4,33,151,2024-08-29 20:07:45,13,485,News,Stale
+http://localhost:5000/video/item_336.mp4,55,85,2024-09-03 07:40:56,27,757,Article,Stale
+http://localhost:5000/video/item_337.mp4,62,147,2024-08-29 01:51:12,9,59,Article,Stale
+http://localhost:5000/video/item_338.mp4,69,112,2024-08-27 16:14:21,26,837,Videos,Stale
+http://localhost:5000/video/item_339.mp4,72,381,2024-08-30 01:03:07,47,161,Article,Stale
+http://localhost:5000/video/item_340.mp4,94,403,2024-09-02 08:26:21,86,691,Infographic,Stale
+http://localhost:5000/video/item_341.mp4,41,36,2024-08-29 16:42:09,30,206,Ebook,Stale
+http://localhost:5000/video/item_342.mp4,96,285,2024-09-01 14:59:46,63,12,Blogs,Stale
+http://localhost:5000/video/item_343.mp4,42,188,2024-08-27 16:16:18,17,490,Emails,Stale
+http://localhost:5000/video/item_344.mp4,76,82,2024-08-27 16:24:03,26,276,Article,Fresh
+http://localhost:5000/video/item_345.mp4,27,2,2024-09-01 21:54:16,4,693,Emails,Stale
+http://localhost:5000/video/item_346.mp4,34,385,2024-09-02 22:27:57,1,242,Authority Content,Fresh
+http://localhost:5000/video/item_347.mp4,63,303,2024-08-26 05:12:47,8,216,Blogs,Stale
+http://localhost:5000/video/item_348.mp4,67,197,2024-08-29 03:40:18,52,251,Emails,Fresh
+http://localhost:5000/video/item_349.mp4,76,404,2024-08-23 11:50:25,47,811,Ebook,Fresh
+http://localhost:5000/video/item_350.mp4,55,11,2024-09-02 22:32:52,22,126,Infographic,Fresh
+http://localhost:5000/video/item_351.mp4,33,234,2024-08-23 10:06:54,14,994,Blogs,Stale
+http://localhost:5000/video/item_352.mp4,41,386,2024-09-02 07:52:38,26,217,Emails,Stale
+http://localhost:5000/video/item_353.mp4,56,195,2024-08-23 18:57:34,28,306,Social Media,Fresh
+http://localhost:5000/video/item_354.mp4,95,471,2024-08-28 18:53:59,87,797,News,Stale
+http://localhost:5000/video/item_355.mp4,32,119,2024-09-01 22:12:32,14,185,Emails,Fresh
+http://localhost:5000/video/item_356.mp4,75,396,2024-08-23 08:29:01,2,39,Ebook,Stale
+http://localhost:5000/video/item_357.mp4,36,20,2024-08-24 01:01:39,26,223,Videos,Fresh
+http://localhost:5000/video/item_358.mp4,11,261,2024-09-01 20:43:27,8,184,Blogs,Stale
+http://localhost:5000/video/item_359.mp4,99,293,2024-08-25 08:16:23,7,495,Infographic,Stale
+http://localhost:5000/video/item_360.mp4,26,422,2024-08-31 00:56:34,3,427,Social Media,Fresh
+http://localhost:5000/video/item_361.mp4,42,256,2024-08-31 19:37:48,23,178,Emails,Stale
+http://localhost:5000/video/item_362.mp4,18,222,2024-09-02 06:48:31,14,919,Infographic,Fresh
+http://localhost:5000/video/item_363.mp4,52,393,2024-09-01 11:22:17,43,428,Article,Stale
+http://localhost:5000/video/item_364.mp4,57,226,2024-08-27 20:41:00,47,294,Live Video,Stale
+http://localhost:5000/video/item_365.mp4,48,53,2024-09-01 17:53:21,45,852,Advertisement,Fresh
+http://localhost:5000/video/item_366.mp4,51,428,2024-08-28 23:42:32,18,151,Emails,Stale
+http://localhost:5000/video/item_367.mp4,35,355,2024-09-03 11:22:13,15,384,Videos,Fresh
+http://localhost:5000/video/item_368.mp4,59,342,2024-08-29 06:01:42,25,638,Infographic,Stale
+http://localhost:5000/video/item_369.mp4,34,364,2024-08-29 18:32:47,28,813,Live Video,Fresh
+http://localhost:5000/video/item_370.mp4,33,280,2024-09-02 03:23:57,10,308,Ebook,Fresh
+http://localhost:5000/video/item_371.mp4,22,81,2024-08-31 01:40:00,7,336,Social Media,Fresh
+http://localhost:5000/video/item_372.mp4,69,202,2024-08-31 18:16:51,57,946,News,Stale
+http://localhost:5000/video/item_373.mp4,16,158,2024-09-01 03:37:23,1,746,News,Fresh
+http://localhost:5000/video/item_374.mp4,66,120,2024-09-01 03:07:12,44,892,Article,Fresh
+http://localhost:5000/video/item_375.mp4,45,59,2024-08-27 16:29:05,25,375,Ebook,Stale
+http://localhost:5000/video/item_376.mp4,54,494,2024-09-01 23:40:58,17,8,Live Video,Fresh
+http://localhost:5000/video/item_377.mp4,29,215,2024-08-24 03:13:22,13,341,Ebook,Stale
+http://localhost:5000/video/item_378.mp4,74,128,2024-08-23 05:48:09,25,129,Emails,Stale
+http://localhost:5000/video/item_379.mp4,17,224,2024-08-24 00:52:59,4,776,Ebook,Stale
+http://localhost:5000/video/item_380.mp4,25,209,2024-08-26 09:17:15,10,669,Emails,Fresh
+http://localhost:5000/video/item_381.mp4,23,370,2024-08-27 18:34:55,3,352,Authority Content,Stale
+http://localhost:5000/video/item_382.mp4,85,115,2024-08-29 17:37:15,18,358,Emails,Fresh
+http://localhost:5000/video/item_383.mp4,96,209,2024-08-24 08:50:05,86,517,News,Fresh
+http://localhost:5000/video/item_384.mp4,24,14,2024-09-02 05:00:27,2,495,Emails,Fresh
+http://localhost:5000/video/item_385.mp4,75,9,2024-08-25 17:58:44,8,86,Social Media,Stale
+http://localhost:5000/video/item_386.mp4,41,40,2024-08-28 22:55:43,40,175,Videos,Stale
+http://localhost:5000/video/item_387.mp4,96,450,2024-08-26 15:30:38,83,802,Live Video,Fresh
+http://localhost:5000/video/item_388.mp4,72,237,2024-08-23 06:18:11,42,193,Ebook,Fresh
+http://localhost:5000/video/item_389.mp4,95,281,2024-08-24 06:39:21,41,311,Blogs,Stale
+http://localhost:5000/video/item_390.mp4,60,359,2024-08-31 00:55:58,37,119,Authority Content,Fresh
+http://localhost:5000/video/item_391.mp4,34,201,2024-08-27 21:24:53,6,218,Live Video,Fresh
+http://localhost:5000/video/item_392.mp4,67,246,2024-08-25 14:31:21,52,427,Advertisement,Stale
+http://localhost:5000/video/item_393.mp4,72,278,2024-08-25 20:49:50,26,970,Videos,Fresh
+http://localhost:5000/video/item_394.mp4,71,235,2024-08-31 20:56:57,64,414,Social Media,Stale
+http://localhost:5000/video/item_395.mp4,31,494,2024-08-31 12:51:33,2,114,Infographic,Stale
+http://localhost:5000/video/item_396.mp4,67,4,2024-08-23 07:16:07,59,978,News,Fresh
+http://localhost:5000/video/item_397.mp4,67,154,2024-08-30 10:49:24,56,145,Ebook,Fresh
+http://localhost:5000/video/item_398.mp4,95,442,2024-08-28 20:38:53,59,538,News,Stale
+http://localhost:5000/video/item_399.mp4,58,29,2024-08-24 22:11:09,45,648,Infographic,Stale
+http://localhost:5000/video/item_400.mp4,61,109,2024-08-26 22:50:09,6,303,Emails,Fresh
+http://localhost:5000/video/item_401.mp4,51,98,2024-08-29 19:50:07,37,744,Article,Fresh
+http://localhost:5000/video/item_402.mp4,79,215,2024-09-02 11:26:56,33,881,Authority Content,Stale
+http://localhost:5000/video/item_403.mp4,24,293,2024-08-28 10:57:22,21,588,Social Media,Stale
+http://localhost:5000/video/item_404.mp4,63,75,2024-08-26 23:33:55,22,987,Advertisement,Fresh
+http://localhost:5000/video/item_405.mp4,69,326,2024-08-27 20:20:27,21,840,Live Video,Fresh
+http://localhost:5000/video/item_406.mp4,17,146,2024-08-29 05:01:40,6,345,Authority Content,Fresh
+http://localhost:5000/video/item_407.mp4,62,128,2024-08-24 16:48:12,6,814,News,Fresh
+http://localhost:5000/video/item_408.mp4,69,341,2024-08-26 23:30:03,4,964,Article,Fresh
+http://localhost:5000/video/item_409.mp4,14,42,2024-08-24 13:03:46,11,801,Social Media,Fresh
+http://localhost:5000/video/item_410.mp4,77,356,2024-08-31 11:09:23,62,1,Social Media,Stale
+http://localhost:5000/video/item_411.mp4,15,41,2024-08-26 05:16:24,14,147,Videos,Stale
+http://localhost:5000/video/item_412.mp4,56,422,2024-08-25 01:06:26,30,287,Infographic,Fresh
+http://localhost:5000/video/item_413.mp4,64,34,2024-08-27 07:28:36,31,976,Authority Content,Stale
+http://localhost:5000/video/item_414.mp4,49,17,2024-08-23 16:23:42,24,654,Blogs,Fresh
+http://localhost:5000/video/item_415.mp4,61,165,2024-08-28 15:41:29,55,53,Emails,Stale
+http://localhost:5000/video/item_416.mp4,25,153,2024-09-03 10:43:12,9,304,Blogs,Stale
+http://localhost:5000/video/item_417.mp4,22,486,2024-08-28 22:57:36,3,69,Infographic,Fresh
+http://localhost:5000/video/item_418.mp4,39,378,2024-08-25 18:12:31,31,361,Social Media,Fresh
+http://localhost:5000/video/item_419.mp4,28,76,2024-08-27 15:59:56,8,602,Blogs,Stale
+http://localhost:5000/video/item_420.mp4,26,87,2024-08-31 11:09:24,5,958,News,Stale
+http://localhost:5000/video/item_421.mp4,72,117,2024-08-25 08:55:17,36,220,Blogs,Fresh
+http://localhost:5000/video/item_422.mp4,28,362,2024-09-01 04:21:44,24,962,Authority Content,Fresh
+http://localhost:5000/video/item_423.mp4,67,342,2024-08-29 17:53:25,6,704,Emails,Fresh
+http://localhost:5000/video/item_424.mp4,64,469,2024-09-03 16:14:05,2,966,Emails,Stale
+http://localhost:5000/video/item_425.mp4,99,27,2024-08-25 09:48:49,84,575,Article,Stale
+http://localhost:5000/video/item_426.mp4,99,313,2024-09-02 03:28:13,92,585,Article,Stale
+http://localhost:5000/video/item_427.mp4,71,287,2024-09-01 02:50:58,4,161,Article,Stale
+http://localhost:5000/video/item_428.mp4,32,134,2024-08-24 06:46:03,15,681,Emails,Stale
+http://localhost:5000/video/item_429.mp4,18,219,2024-08-27 01:29:02,6,89,Advertisement,Stale
+http://localhost:5000/video/item_430.mp4,21,168,2024-08-27 17:05:16,17,688,Blogs,Stale
+http://localhost:5000/video/item_431.mp4,10,98,2024-08-24 02:49:06,8,781,Infographic,Stale
+http://localhost:5000/video/item_432.mp4,67,268,2024-08-24 13:53:10,51,585,Live Video,Fresh
+http://localhost:5000/video/item_433.mp4,10,237,2024-09-01 08:19:20,9,757,Article,Stale
+http://localhost:5000/video/item_434.mp4,43,309,2024-08-26 10:19:12,2,589,Social Media,Stale
+http://localhost:5000/video/item_435.mp4,57,455,2024-08-28 06:14:16,15,159,Infographic,Stale
+http://localhost:5000/video/item_436.mp4,98,394,2024-08-30 21:35:14,75,489,Article,Fresh
+http://localhost:5000/video/item_437.mp4,10,173,2024-09-02 02:13:56,8,971,Infographic,Fresh
+http://localhost:5000/video/item_438.mp4,25,401,2024-08-31 12:10:35,19,324,Videos,Stale
+http://localhost:5000/video/item_439.mp4,70,410,2024-08-29 16:06:39,45,610,Videos,Fresh
+http://localhost:5000/video/item_440.mp4,73,469,2024-08-29 13:27:09,44,381,Authority Content,Stale
+http://localhost:5000/video/item_441.mp4,72,476,2024-08-28 23:04:32,5,102,News,Stale
+http://localhost:5000/video/item_442.mp4,78,190,2024-08-30 20:47:29,70,494,Live Video,Stale
+http://localhost:5000/video/item_443.mp4,31,122,2024-08-31 04:08:59,26,644,News,Stale
+http://localhost:5000/video/item_444.mp4,76,46,2024-08-24 03:46:33,68,614,Ebook,Fresh
+http://localhost:5000/video/item_445.mp4,85,64,2024-08-23 07:10:28,19,19,Live Video,Fresh
+http://localhost:5000/video/item_446.mp4,35,130,2024-08-31 12:33:24,20,454,News,Stale
+http://localhost:5000/video/item_447.mp4,25,310,2024-08-28 03:09:32,1,482,Social Media,Fresh
+http://localhost:5000/video/item_448.mp4,60,363,2024-08-25 20:47:26,20,594,Live Video,Fresh
+http://localhost:5000/video/item_449.mp4,95,193,2024-08-29 17:56:01,12,397,News,Fresh
+http://localhost:5000/video/item_450.mp4,66,307,2024-08-25 21:57:23,47,279,Emails,Fresh
+http://localhost:5000/video/item_451.mp4,38,181,2024-09-01 05:04:55,1,851,News,Stale
+http://localhost:5000/video/item_452.mp4,87,292,2024-08-24 13:51:15,14,365,Live Video,Fresh
+http://localhost:5000/video/item_453.mp4,78,371,2024-08-31 09:18:10,64,331,Infographic,Fresh
+http://localhost:5000/video/item_454.mp4,56,282,2024-09-03 04:42:02,38,641,Blogs,Fresh
+http://localhost:5000/video/item_455.mp4,71,29,2024-08-29 19:22:40,37,344,Live Video,Fresh
+http://localhost:5000/video/item_456.mp4,78,149,2024-09-01 08:20:47,11,822,Emails,Stale
+http://localhost:5000/video/item_457.mp4,85,267,2024-08-25 17:56:26,77,455,Blogs,Stale
+http://localhost:5000/video/item_458.mp4,25,296,2024-08-29 22:19:32,11,601,Social Media,Fresh
+http://localhost:5000/video/item_459.mp4,99,11,2024-08-26 14:38:19,3,725,Article,Fresh
+http://localhost:5000/video/item_460.mp4,99,164,2024-08-28 04:16:41,33,655,Ebook,Fresh
+http://localhost:5000/video/item_461.mp4,57,113,2024-08-30 14:54:20,6,65,Infographic,Fresh
+http://localhost:5000/video/item_462.mp4,94,187,2024-09-01 13:28:22,50,76,Emails,Fresh
+http://localhost:5000/video/item_463.mp4,48,295,2024-08-26 20:30:34,10,711,Ebook,Fresh
+http://localhost:5000/video/item_464.mp4,42,232,2024-08-30 07:01:00,5,143,Live Video,Stale
+http://localhost:5000/video/item_465.mp4,32,227,2024-08-25 15:28:52,23,917,Article,Stale
+http://localhost:5000/video/item_466.mp4,19,310,2024-08-27 03:23:26,10,915,Blogs,Fresh
+http://localhost:5000/video/item_467.mp4,78,98,2024-08-25 13:28:21,44,828,Infographic,Fresh
+http://localhost:5000/video/item_468.mp4,43,55,2024-09-01 00:24:19,2,605,Ebook,Stale
+http://localhost:5000/video/item_469.mp4,61,111,2024-08-31 22:58:17,13,473,Advertisement,Fresh
+http://localhost:5000/video/item_470.mp4,19,152,2024-08-23 23:05:04,8,417,Emails,Stale
+http://localhost:5000/video/item_471.mp4,28,246,2024-08-23 07:15:25,2,305,Authority Content,Fresh
+http://localhost:5000/video/item_472.mp4,67,406,2024-08-24 04:05:06,65,736,Infographic,Fresh
+http://localhost:5000/video/item_473.mp4,10,69,2024-08-26 16:02:20,5,497,Social Media,Stale
+http://localhost:5000/video/item_474.mp4,78,312,2024-08-28 10:31:11,73,291,Article,Fresh
+http://localhost:5000/video/item_475.mp4,13,289,2024-08-24 17:26:22,1,940,Videos,Stale
+http://localhost:5000/video/item_476.mp4,25,250,2024-09-01 01:17:10,9,102,Videos,Fresh
+http://localhost:5000/video/item_477.mp4,33,36,2024-08-30 19:42:15,11,986,Ebook,Fresh
+http://localhost:5000/video/item_478.mp4,89,239,2024-08-28 22:33:07,15,267,News,Stale
+http://localhost:5000/video/item_479.mp4,11,148,2024-09-03 12:10:05,8,867,Infographic,Fresh
+http://localhost:5000/video/item_480.mp4,41,467,2024-08-29 19:40:16,38,968,Blogs,Fresh
+http://localhost:5000/video/item_481.mp4,93,227,2024-08-29 23:52:35,35,622,Authority Content,Fresh
+http://localhost:5000/video/item_482.mp4,33,244,2024-08-31 13:30:07,30,974,Article,Fresh
+http://localhost:5000/video/item_483.mp4,21,491,2024-09-02 19:44:20,17,842,Infographic,Stale
+http://localhost:5000/video/item_484.mp4,59,337,2024-08-26 01:41:59,5,962,Ebook,Stale
+http://localhost:5000/video/item_485.mp4,44,446,2024-08-31 12:41:23,14,942,News,Fresh
+http://localhost:5000/video/item_486.mp4,42,365,2024-08-23 17:42:25,11,777,Ebook,Fresh
+http://localhost:5000/video/item_487.mp4,42,491,2024-08-30 10:32:54,9,3,Blogs,Stale
+http://localhost:5000/video/item_488.mp4,70,482,2024-08-24 03:01:50,34,85,Authority Content,Stale
+http://localhost:5000/video/item_489.mp4,60,201,2024-08-29 20:08:50,12,794,Videos,Stale
+http://localhost:5000/video/item_490.mp4,52,154,2024-08-23 09:29:30,35,328,Authority Content,Fresh
+http://localhost:5000/video/item_491.mp4,21,450,2024-08-30 03:51:03,3,816,Article,Stale
+http://localhost:5000/video/item_492.mp4,76,73,2024-08-26 08:48:32,1,450,Emails,Fresh
+http://localhost:5000/video/item_493.mp4,74,201,2024-08-30 19:37:56,40,454,Blogs,Fresh
+http://localhost:5000/video/item_494.mp4,42,296,2024-08-31 23:53:37,22,924,Ebook,Stale
+http://localhost:5000/video/item_495.mp4,49,17,2024-08-30 18:54:53,29,629,Advertisement,Stale
+http://localhost:5000/video/item_496.mp4,83,129,2024-09-01 22:33:31,72,221,Videos,Stale
+http://localhost:5000/video/item_497.mp4,52,217,2024-09-01 20:13:28,11,154,Article,Stale
+http://localhost:5000/video/item_498.mp4,53,61,2024-08-26 12:17:22,41,665,Infographic,Stale
+http://localhost:5000/video/item_499.mp4,38,427,2024-08-27 18:50:23,37,12,Article,Fresh
